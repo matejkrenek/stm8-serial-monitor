@@ -4,11 +4,11 @@
   <h2 align="center">STM8 SERIAL MONITOR LIBRARY</h2>
 
   <p align="center">
-    Library for using rotary encoder with stm8
+    Library for serial monitor implementation via UART
     <br />
-    <a href="https://github.com/matejkrenek/stm8-rotary-encoder/issues">Report Bug</a>
+    <a href="https://github.com/matejkrenek/stm8-serial-monitor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/matejkrenek/stm8-rotary-encoder/issues">Request Feature</a>
+    <a href="https://github.com/matejkrenek/stm8-serial-monitor/issues">Request Feature</a>
   </p>
 </div>
 
